@@ -29,6 +29,16 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+| Total Stars Earned: | ![Stars](https://img.shields.io/github/stars/kirangautam01?label=Stars&color=blue) |
+|---------------------|-----------------------------------------------------------------------------------|
+| Total Commits (2025): | ![Commits](https://img.shields.io/github/commit-activity/y/kirangautam01?label=Commits&color=blue) **186** |
+| Total PRs: | ![PRs](https://img.shields.io/github/issues-pr-closed/kirangautam01?label=PRs&color=blue) **45** |
+| Total Issues: | ![Issues](https://img.shields.io/github/issues-closed/kirangautam01?label=Issues&color=blue) **12** |
+| Contributed to: | ![Contributions](https://img.shields.io/static/v1?label=Contributed%20To&message=5&color=blue) |
+
+![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B+-brightgreen)
 
 ## 📊 GitHub Analytics
 
