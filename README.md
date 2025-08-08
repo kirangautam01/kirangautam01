@@ -9,7 +9,7 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
 ## 📫 Connect With Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:romangautam71399@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-gautam-19aaa8274/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://www.gautam-kiran.com.np/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://www.gautam-kiran.com.np/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kirangautam01)
 
 ---
@@ -48,9 +48,9 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
 </td>
 <td>
 
-![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B+-brightgreen)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirangautam01&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=24)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kirangautam01&theme=radical&hide_border=true)
+![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B+-blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirangautam01&show_icons=true&theme=default&hide_border=true&count_private=true&line_height=24)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kirangautam01&theme=blue&hide_border=true)
 
 </td>
 </tr>
