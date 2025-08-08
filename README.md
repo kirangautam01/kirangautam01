@@ -51,22 +51,36 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
 
 ## 🎯 Skills & Interests
 
-### Languages
-- Nepali (Native)
-- English (Fluent)
-- Hindi (Fluent)
-
-### Other Skills
-- Cloud Technologies
-- Excel/Word
-- Teaching
-
-### Interests
-- Travel Photography ✈️
-- Teaching Others 💡
-- Exploring New Tech 🚀
-
----
+<p align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h3>Languages</h3>
+        <ul>
+          <li>Nepali (Native)</li>
+          <li>English (Fluent)</li>
+          <li>Hindi (Fluent)</li>
+        </ul>
+      </td>
+      <td width="33%">
+        <h3>Other Skills</h3>
+        <ul>
+          <li>Cloud Technologies</li>
+          <li>Excel/Word</li>
+          <li>Teaching</li>
+        </ul>
+      </td>
+      <td width="33%">
+        <h3>Interests</h3>
+        <ul>
+          <li>Travel Photography ✈️</li>
+          <li>Teaching Others 💡</li>
+          <li>Exploring New Tech 🚀</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## 💡 Fun Fact
 
