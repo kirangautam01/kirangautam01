@@ -47,12 +47,6 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirangautam01&theme=radical" width="48%" />
 </p>
 
-| **Metric**       | **Badge**                                                                 |
-|------------------|---------------------------------------------------------------------------|
-| Total Stars      | ![Stars](https://img.shields.io/github/stars/kirangautam01?color=blue)    |
-| Total Commits    | ![Commits](https://img.shields.io/badge/Commits-100+-brightgreen)         |
-| Contribution     | ![Grade](https://img.shields.io/badge/Contribution-B+-green)              |
-
 ---
 
 ## 🎯 Skills & Interests
