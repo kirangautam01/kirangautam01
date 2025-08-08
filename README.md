@@ -38,7 +38,6 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
 | Total Issues: | ![Issues](https://img.shields.io/github/issues-closed/kirangautam01?label=Issues&color=blue) **12** |
 | Contributed to: | ![Contributions](https://img.shields.io/static/v1?label=Contributed%20To&message=5&color=blue) |
 
-![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B+-brightgreen)
 
 ## 📊 GitHub Analytics
 
