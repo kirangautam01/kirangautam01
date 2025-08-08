@@ -50,7 +50,6 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
 
 ![Contribution Grade](https://img.shields.io/badge/Contribution%20Grade-B+-blue)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirangautam01&show_icons=true&theme=default&hide_border=true&count_private=true&line_height=24)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kirangautam01&theme=blue&hide_border=true)
 
 </td>
 </tr>
