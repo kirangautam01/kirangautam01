@@ -55,6 +55,14 @@ Currently honing my skills in **MERN stack** and exploring **cloud technologies*
 </p>
 
 ---
+## 🔥 Coding Streak
+<p align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kirangautam01&theme=default)](https://git.io/streak-stats)
+
+</p>
+
+---
 
 ## 🎯 Skills & Interests
 <p align="center">
